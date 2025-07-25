@@ -2,7 +2,7 @@
 
 ## 🔧 1. **Component Design**
 
-### ✅ Best Practices:
+## ✅ Best Practices:
 
 * **Keep components small and focused** (Single Responsibility Principle)
 * Use **functional components** with hooks (`useState`, `useEffect`, etc.)
