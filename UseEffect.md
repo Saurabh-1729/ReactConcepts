@@ -1,4 +1,4 @@
-Great question! In React, **cleanup functions** in `useEffect` are used to prevent memory leaks and unwanted side effects by "cleaning up" after the effect runs. Here’s how you decide when and why to use them:
+
 
 ---
 
